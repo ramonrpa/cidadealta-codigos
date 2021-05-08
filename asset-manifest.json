@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/cidadealta-codigos/static/css/main.a2f8ae6f.chunk.css",
-    "main.js": "/cidadealta-codigos/static/js/main.40ce5994.chunk.js",
-    "main.js.map": "/cidadealta-codigos/static/js/main.40ce5994.chunk.js.map",
+    "main.js": "/cidadealta-codigos/static/js/main.9759babb.chunk.js",
+    "main.js.map": "/cidadealta-codigos/static/js/main.9759babb.chunk.js.map",
     "runtime-main.js": "/cidadealta-codigos/static/js/runtime-main.4159c28c.js",
     "runtime-main.js.map": "/cidadealta-codigos/static/js/runtime-main.4159c28c.js.map",
-    "static/js/2.94cd8297.chunk.js": "/cidadealta-codigos/static/js/2.94cd8297.chunk.js",
-    "static/js/2.94cd8297.chunk.js.map": "/cidadealta-codigos/static/js/2.94cd8297.chunk.js.map",
+    "static/js/2.b96d580c.chunk.js": "/cidadealta-codigos/static/js/2.b96d580c.chunk.js",
+    "static/js/2.b96d580c.chunk.js.map": "/cidadealta-codigos/static/js/2.b96d580c.chunk.js.map",
     "index.html": "/cidadealta-codigos/index.html",
     "static/css/main.a2f8ae6f.chunk.css.map": "/cidadealta-codigos/static/css/main.a2f8ae6f.chunk.css.map",
-    "static/js/2.94cd8297.chunk.js.LICENSE.txt": "/cidadealta-codigos/static/js/2.94cd8297.chunk.js.LICENSE.txt"
+    "static/js/2.b96d580c.chunk.js.LICENSE.txt": "/cidadealta-codigos/static/js/2.b96d580c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4159c28c.js",
-    "static/js/2.94cd8297.chunk.js",
+    "static/js/2.b96d580c.chunk.js",
     "static/css/main.a2f8ae6f.chunk.css",
-    "static/js/main.40ce5994.chunk.js"
+    "static/js/main.9759babb.chunk.js"
   ]
 }
